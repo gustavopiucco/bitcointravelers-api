@@ -1,0 +1,10 @@
+module.exports.userService = require('./user.service');
+module.exports.tokenService = require('./token.service');
+module.exports.authService = require('./auth.service');
+module.exports.taskService = require('./task.service');
+module.exports.blockioService = require('./blockio.service');
+module.exports.invoiceService = require('./invoice.service');
+module.exports.blockchainService = require('./blockchain.service');
+module.exports.infoService = require('./info.service');
+module.exports.commissionService = require('./commissions.service');
+module.exports.transferService = require('./transfer.service');
